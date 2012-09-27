@@ -10,4 +10,4 @@ $val = "some";
 
 ?>
 
-<div>Show some data test</div>
+<div>Show some data</div>
