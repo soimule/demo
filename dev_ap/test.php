@@ -1,3 +1,3 @@
 <?php
 
-// some comment
+// some comment.
