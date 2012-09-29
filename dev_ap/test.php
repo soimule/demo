@@ -1,4 +1,4 @@
 <?php
 
 // some comment.
-$var = "some";
+$var = "some fixing bug";
